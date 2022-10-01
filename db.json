@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Александр",
+      "login": "chriscap",
+      "password": "1234",
+      "authCompleted": true
+    },
+    {
+      "id": 2,
+      "name": "gosha777",
+      "login": "ex123",
+      "password": "govno123",
+      "authCompleted": false
+    },
+    {
+      "id": 3,
+      "name": "Артемий Татьянович",
+      "login": "arttem",
+      "password": "пароль",
+      "authCompleted": false
+    },
+    {
+      "name": "Диана",
+      "login": "diana228",
+      "password": "228",
+      "authCompleted": true,
+      "id": 4
+    }
+  ]
+}
